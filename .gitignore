@@ -1,5 +1,6 @@
-*
-!.*/
+GPATH
+GRTAGS
+GTAGS
 
 *.tmp
 *.temp
