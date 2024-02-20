@@ -4,6 +4,18 @@
 ---
 
 [back](../README.md)
+
+``` 
+Makefile
+├── fun1.c  
+├── fun2.c  
+├── head.h  
+├── main.c  
+├── makefile  
+├── makefile.md  
+└── sum.c
+```
+
 ## 什么是 Makefile？
 
 Makefile 是一个用于自动化构建和管理项目的工具。它通常由一系列规则组成，每个规则指定了如何生成一个或多个目标文件。
